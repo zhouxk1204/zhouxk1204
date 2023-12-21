@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhouxk1204
 - 👀 I’m interested in chatGPT
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Vue3
 - 💞️ I’m looking to collaborate on 346960620@qq.com
 - 📫 How to reach me ...
 
